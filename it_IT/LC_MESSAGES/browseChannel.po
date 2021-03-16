@@ -25,13 +25,13 @@ msgid "SPINOFFS"
 msgstr "Spinoff"
 
 msgid "BROWSE_BY_SONG"
-msgstr "Browse by Song"
+msgstr "Cerca per Brano"
 
 msgid "BROWSE_BY_ARTIST"
-msgstr "Browse by Artist"
+msgstr "Cerca per Artista"
 
 msgid "BROWSE_BY_ALBUM"
-msgstr "Browse by Album"
+msgstr "Cerca per Album"
 
 msgid "BROWSE_PLAYLIST"
-msgstr "Browse Playlist"
+msgstr "Cerca per Playlist"
