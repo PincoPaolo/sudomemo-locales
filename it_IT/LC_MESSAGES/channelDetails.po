@@ -4,43 +4,43 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CHANNEL_NAME"
-msgstr "Channel Name"
+msgstr "Nome del canale"
 
 msgid "CHANNEL_INFORMATION"
-msgstr "Channel Information"
+msgstr "Informazioni sul canale"
 
 msgid "FLIPNOTES"
-msgstr "Flipnotes"
+msgstr "Flipnote"
 
 msgid "CHANNEL_ID"
-msgstr "Channel ID"
+msgstr "ID Canale"
 
 msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "You must be logged in to post a Flipnote."
+msgstr "Esegui l'accesso per pubblicare un Flipnote."
 
 msgid "CHANNEL_NOT_SPECIFIED"
-msgstr "You must pick a channel."
+msgstr "Scegli un canale."
 
 msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
-msgstr "You've been restricted from using Sudomemo."
+msgstr "Sei stato sospeso dall'usare Sudomemo."
 
 msgid "FLIPNOTE_POST_FAILED"
-msgstr "Flipnote upload failed. Try again in a moment."
+msgstr "Caricamento non riuscito, riprova più tardi."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
-msgstr "This Flipnote has already been posted to Sudomemo. Try editing it again."
+msgstr "Questo Flipnote è già stato pubblicato su Sudomemo. Prova a modificarlo."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "I dati del Flipnote sono corrotti. Riprova più tardi."
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
-msgstr "You may not post an empty Flipnote."
+msgstr "Non puoi pubblicare un Flipnote vuoto."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
+msgstr "Per poter pubblicare, conferma l'accesso."
 
 msgid "NO_POSTS_WHILE_MUTED"
-msgstr "You may not post while you are muted."
+msgstr "Sei silenziato, non puoi pubblicare"
 
 msgid "CATEGORY"
-msgstr "Category"
+msgstr "Categoria"
